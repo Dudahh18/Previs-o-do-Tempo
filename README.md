@@ -1,4 +1,4 @@
-### PT
+#### PT
 
 # 🌤️ MeteoSimples - Previsão do Tempo Simples e Precisa!
 **Bem-vindo ao MeteoSimples! 🌍✨**
@@ -19,7 +19,7 @@ Obtenha suas previsões do tempo de forma simples e rápida com o MeteoSimples! 
 
 ----------------------------------------------------------------------------------------------------------------------
 
-### EN
+#### EN
 
 # 🌤️ SimpleMeteo - Simple and Accurate Weather Forecasts!
 **Welcome to SimpleMeteo! 🌍✨**
