@@ -1,5 +1,5 @@
 # 🌤️ MeteoSimples - Previsão do Tempo Simples e Precisa!
-Bem-vindo ao MeteoSimples! 🌍✨
+**Bem-vindo ao MeteoSimples! 🌍✨**
 
 Se você está procurando uma maneira fácil e rápida de saber como estará o tempo, está no lugar certo. O MeteoSimples é um site simples que fornece previsões do tempo precisas e atualizadas.
 
@@ -15,9 +15,11 @@ API de Clima: Dados meteorológicos precisos de fontes confiáveis.
 
 Obtenha suas previsões do tempo de forma simples e rápida com o MeteoSimples! ☁️
 
+----------------------------------------------------------------------------------------------------------------------
+
 
 # 🌤️ SimpleMeteo - Simple and Accurate Weather Forecasts!
-Welcome to SimpleMeteo! 🌍✨
+**Welcome to SimpleMeteo! 🌍✨**
 
 If you're looking for an easy and quick way to know what the weather will be like, you're in the right place. SimpleMeteo is a simple site that provides accurate and up-to-date weather forecasts.
 
