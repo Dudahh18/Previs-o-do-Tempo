@@ -1,4 +1,3 @@
-![alt text](https://previs-o-do-tempo-iota.vercel.app/)
 
 #### PT
 
